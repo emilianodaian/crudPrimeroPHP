@@ -47,6 +47,7 @@ $categorias = $stmt->fetchAll();
 <head>
     <meta charset="UTF-8">
     <title>CRUD Categorías con PDO</title>
+    <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
     <h2>Listado de Categorías</h2>
